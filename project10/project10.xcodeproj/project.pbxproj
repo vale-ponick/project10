@@ -62,8 +62,8 @@
 		58639D932EA92CBE005C4701 = {
 			isa = PBXGroup;
 			children = (
-				58639DA62EA92CEB005C4701 /* folder1 */,
 				58639D9E2EA92CBE005C4701 /* project10 */,
+				58639DA62EA92CEB005C4701 /* folder1 */,
 				58639D9D2EA92CBE005C4701 /* Products */,
 			);
 			sourceTree = "<group>";
